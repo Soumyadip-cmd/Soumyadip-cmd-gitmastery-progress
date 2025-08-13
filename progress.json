@@ -16,5 +16,14 @@
       "/home/soumyadip/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755082857.84562,
+    "completed_at": 1755082861.707013,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
   }
 ]
